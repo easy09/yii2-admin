@@ -1,7 +1,8 @@
 RBAC Manager for Yii 2
 ======================
 > **I fork this object because the official api version of the code is no longer updated**
-> **Warning: This version was no longer maintained. Please use version 2.x.**
+>
+> **Official Warning: This version was no longer maintained. Please use version 2.x.**
 > 
 > `composer require mdmsoft/yii2-admin "~2.0"`
 
