@@ -1,5 +1,5 @@
 {
-    "name": "mdmsoft/yii2-admin",
+    "name": "willcn/yii2-admin",
     "description": "RBAC Auth manager for Yii2 ",
     "keywords": ["yii", "admin", "auth", "rbac", "angularjs", "rest"],
     "type": "yii2-extension",
@@ -12,6 +12,10 @@
         {
             "name": "Misbahul Munir",
             "email": "misbahuldmunir@gmail.com"
+        },
+        {
+            "name": "Will Lin",
+            "email": "will@cn09.com"
         }
     ],
     "require": {
@@ -21,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mdm\\admin\\": ""
+            "willcn\\admin\\": ""
         }
     },
     "extra": {
