@@ -1,6 +1,6 @@
 <?php
 
-namespace mdm\admin;
+namespace willcn\admin;
 
 use Yii;
 use yii\base\BootstrapInterface;
