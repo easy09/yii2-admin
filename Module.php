@@ -1,6 +1,6 @@
 <?php
 
-namespace willcn\admin;
+namespace mdm\admin;
 
 use Yii;
 use yii\base\BootstrapInterface;
@@ -76,7 +76,7 @@ class Module extends \yii\base\Module implements BootstrapInterface
             'POST ' . $id . '/menu/<id>' => $id . '/menu/update',
             'POST ' . $id . '/menu' => $id . '/menu/create',
             'DELETE ' . $id . '/menu/<id>' => $id . '/menu/delete',
-            ], false);
+        ], false);
     }
 
     /**
